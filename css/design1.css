@@ -4,9 +4,10 @@
     text-align: center;
 }
 .design1 {
-    
-    background-color:#F5F5F5;
-    color: #383838;
+    background-color: #CC0000;
+    color: #F5F5F5;
+    /* background-color:#F5F5F5;
+    color: #383838; */
     letter-spacing: 2px;
     font-family: 'Inconsolata';
     font-size: 100px;
@@ -39,9 +40,11 @@
     text-align: center;
 }
 .designr {
+    background-color:#EF0107;
+    color: #43464B;
     
-    background-color:#383838;
-    color: #F5F5F5;
+    /* background-color:#383838;
+    color: #F5F5F5; */
     letter-spacing: 2px;
     font-family: 'Inconsolata';
     font-size: 100px;
